@@ -1,0 +1,1 @@
+allure generate --clean --output %1  %2

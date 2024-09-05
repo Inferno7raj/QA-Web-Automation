@@ -1,0 +1,8 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Rajesh Tuppalwad\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:62 User is logged in with Admin username
+[32mINFO    [0m root:test_case_02.py:33 New user is created
+[32mINFO    [0m root:test_case_02.py:35 Workflow Completed
+[32mINFO    [0m root:conftest.py:73 Closed the driver session.

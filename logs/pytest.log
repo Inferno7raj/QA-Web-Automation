@@ -1,0 +1,16 @@
+2024-09-05 20:24:52 [    INFO] ====== WebDriver manager ======
+2024-09-05 20:24:54 [    INFO] Get LATEST chromedriver version for google-chrome
+2024-09-05 20:24:54 [    INFO] Get LATEST chromedriver version for google-chrome
+2024-09-05 20:24:54 [    INFO] Driver [C:\Users\Rajesh Tuppalwad\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-05 20:25:19 [    INFO] User is logged in with Admin username
+2024-09-05 20:25:29 [    INFO] user is searched
+2024-09-05 20:25:29 [    INFO] Workflow Completed
+2024-09-05 20:25:32 [    INFO] Closed the driver session.
+2024-09-05 20:25:32 [    INFO] ====== WebDriver manager ======
+2024-09-05 20:25:34 [    INFO] Get LATEST chromedriver version for google-chrome
+2024-09-05 20:25:34 [    INFO] Get LATEST chromedriver version for google-chrome
+2024-09-05 20:25:34 [    INFO] Driver [C:\Users\Rajesh Tuppalwad\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-05 20:25:45 [    INFO] User is logged in with Admin username
+2024-09-05 20:26:07 [    INFO] New user is created
+2024-09-05 20:26:07 [    INFO] Workflow Completed
+2024-09-05 20:26:10 [    INFO] Closed the driver session.

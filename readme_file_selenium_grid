@@ -1,0 +1,20 @@
+. Download selenium grid with the same version at both the machines at the location where selenium is installed or else you can create a dir with the selenium grid name (selenium version - 4.9.0)
+
+2. Install the web driver (MSEdge driver, Geko driver)
+
+3. Launch the command prompt to the loaction where selenium grid installed on the path, "C:\selenium-grid"
+
+3.pytest_reg case_10.py stark 2 caneda
+
+To Perform parallel execution on two different machines using selenium grid:
+
+4. Start the selenium hub: "java -jar selenium-server-4.20.0.jar hub"
+
+5. Start the node where selenium hub is installed on the same machine: "java -jar selenium-server-4.20.0.jar node --detect-drivers true"
+
+6. Start the node at different machine:
+"java -jar selenium-server-4.20.0.jar node --detect-drivers true --publish-events tcp://172.26.0. 169:4442 --subscribe-events tcp://172.26.0.169:4443"
+
+7. Run the test cases using these commands: Run two tests on local PC and two on staging VM in parallel
+
+# #pytest test_sample.py --node=local -n 2 & pytest test_sample.py--node-staging
